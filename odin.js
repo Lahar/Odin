@@ -8,4 +8,3 @@ requirejs.config({
 requirejs(['webserver'], function(webserver) {
   webserver.start(8085);
 });
-

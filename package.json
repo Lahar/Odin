@@ -1,0 +1,15 @@
+{
+  "name": "Odin",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node odin.js"
+  },
+  "dependencies": {
+    "requirejs": "*",
+    "express": "*",
+    "jade": "*",
+    "stylus": "*",
+    "nib": "*"
+  }
+}
